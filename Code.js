@@ -1,0 +1,5 @@
+let a = [1, 2, 3]
+
+for (let item of a) {
+    console.log(item, 'base value')
+}
