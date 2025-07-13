@@ -4,4 +4,4 @@ for (let item of a) {
     console.log(item, 'base value')
 }
 
-let b = "testing"
+let b = "manual"
